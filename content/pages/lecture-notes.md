@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Notes
 uid: cc5ca3f8-3e95-5c32-e664-feca1afd7bee
 ---
@@ -88,7 +91,7 @@ The classical pathway of endogenous antigen presentation will be reviewed briefl
 Major histocompatiblity (MHC) class II antigen presentation ([PDF]({{< baseurl >}}/resources/7_340_6))
 {{< tdclose >}}
 {{< tdopen >}}
-Infection of CD4+ T cells with the _Human immunodeficiency virus_ (HIV) leads to the demise of the immune system and the clinical manifestation of AIDS. Paradoxically, the very receptor that serves as point of entry for HIV, CD4, is surface down-regulated upon infection. In the first paper that will be discussed, the role of the HIV-derived _nef_ gene in this observation is investigated. In the second paper, the _nef_ gene product is shown to interact with another element of the MHC class II Ag presentation pathway: The Invariant Chain. We will examine how HIV could benefit from adapting intracellular trafficking of these molecules through Nef.
+Infection of CD4{{< sup "+" >}} T cells with the _Human immunodeficiency virus_ (HIV) leads to the demise of the immune system and the clinical manifestation of AIDS. Paradoxically, the very receptor that serves as point of entry for HIV, CD4, is surface down-regulated upon infection. In the first paper that will be discussed, the role of the HIV-derived _nef_ gene in this observation is investigated. In the second paper, the _nef_ gene product is shown to interact with another element of the MHC class II Ag presentation pathway: The Invariant Chain. We will examine how HIV could benefit from adapting intracellular trafficking of these molecules through Nef.
 {{< tdclose >}}
 
 {{< trclose >}}
