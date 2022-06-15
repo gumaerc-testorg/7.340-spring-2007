@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides information about recommended readings associated
+  with lectures.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection

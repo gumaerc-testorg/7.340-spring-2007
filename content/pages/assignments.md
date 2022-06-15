@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides information about the two written assignments for
+  the course.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -23,7 +25,7 @@ Assignment 1
 
 Written assignment (2 page essay, due in Ses #7)
 
-The first paper (see Ses #4 [readings]({{< baseurl >}}/pages/readings)) suggests that the viral DUB UL36\_usp might be involved in immune evasion. One straightforward explanation would be that ubiquitin removal prevents degradation of proteins that are key to HSV survival. Another possibility is that the viral DUB interferes with trafficking of membrane proteins required for viral budding.
+The first paper (see Ses #4 {{% resource_link a71f2933-e214-3d1b-ce18-09fc2cde7403 "readings" %}}) suggests that the viral DUB UL36\_usp might be involved in immune evasion. One straightforward explanation would be that ubiquitin removal prevents degradation of proteins that are key to HSV survival. Another possibility is that the viral DUB interferes with trafficking of membrane proteins required for viral budding.
 
 ### Part 1
 
